@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Pac-ManFinal" />
+		<Option execution_dir="../Pac-ManFinal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Pac-ManFinal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../Pac-ManFinal" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="C:/Users/Morty/Documents/Universidad/Semestre6/Graficacion/Pac-ManFinal/" />
+				</Compiler>
+				<Linker>
+					<Add library="winmm" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Pac-ManFinal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="freeglut" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="include/Comida.h" />
+		<Unit filename="include/Escenario.h" />
+		<Unit filename="include/Fantasma.h" />
+		<Unit filename="include/Mapa.h" />
+		<Unit filename="include/PacMan.h" />
+		<Unit filename="include/RgbImage.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pacman-dies.wav" />
+		<Unit filename="pacman-siren.wav" />
+		<Unit filename="pacman-wakawaka.wav" />
+		<Unit filename="pacmanIntro.wav" />
+		<Unit filename="sprites/FantasmaCD1.bmp" />
+		<Unit filename="sprites/FantasmaCD2.bmp" />
+		<Unit filename="sprites/FantasmaCL1.bmp" />
+		<Unit filename="sprites/FantasmaCL2.bmp" />
+		<Unit filename="sprites/FantasmaCR1.bmp" />
+		<Unit filename="sprites/FantasmaCR2.bmp" />
+		<Unit filename="sprites/FantasmaCU1.bmp" />
+		<Unit filename="sprites/FantasmaCU2.bmp" />
+		<Unit filename="sprites/FantasmaND1.bmp" />
+		<Unit filename="sprites/FantasmaND2.bmp" />
+		<Unit filename="sprites/FantasmaNL1.bmp" />
+		<Unit filename="sprites/FantasmaNL2.bmp" />
+		<Unit filename="sprites/FantasmaNR1.bmp" />
+		<Unit filename="sprites/FantasmaNR2.bmp" />
+		<Unit filename="sprites/FantasmaNU1.bmp" />
+		<Unit filename="sprites/FantasmaNU2.bmp" />
+		<Unit filename="sprites/FantasmaRojoD1.bmp" />
+		<Unit filename="sprites/FantasmaRojoD2.bmp" />
+		<Unit filename="sprites/FantasmaRojoL1.bmp" />
+		<Unit filename="sprites/FantasmaRojoL2.bmp" />
+		<Unit filename="sprites/FantasmaRojoR1.bmp" />
+		<Unit filename="sprites/FantasmaRojoR2.bmp" />
+		<Unit filename="sprites/FantasmaRojoU1.bmp" />
+		<Unit filename="sprites/FantasmaRojoU2.bmp" />
+		<Unit filename="sprites/FantasmaRosaD1.bmp" />
+		<Unit filename="sprites/FantasmaRosaD2.bmp" />
+		<Unit filename="sprites/FantasmaRosaL1.bmp" />
+		<Unit filename="sprites/FantasmaRosaL2.bmp" />
+		<Unit filename="sprites/FantasmaRosaR1.bmp" />
+		<Unit filename="sprites/FantasmaRosaR2.bmp" />
+		<Unit filename="sprites/FantasmaRosaU1.bmp" />
+		<Unit filename="sprites/FantasmaRosaU2.bmp" />
+		<Unit filename="sprites/Pac-Man_General_Sprites.bmp" />
+		<Unit filename="sprites/Pacman1.bmp" />
+		<Unit filename="sprites/Pacman2.bmp" />
+		<Unit filename="sprites/Pacman3.bmp" />
+		<Unit filename="sprites/comida.bmp" />
+		<Unit filename="sprites/gameover.bmp" />
+		<Unit filename="sprites/introFondo.bmp" />
+		<Unit filename="sprites/mapa.bmp" />
+		<Unit filename="sprites/mapaPuntos.bmp" />
+		<Unit filename="src/Comida.cpp" />
+		<Unit filename="src/Escenario.cpp" />
+		<Unit filename="src/Fantasma.cpp" />
+		<Unit filename="src/Mapa.cpp" />
+		<Unit filename="src/PacMan.cpp" />
+		<Unit filename="src/RgbImage.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

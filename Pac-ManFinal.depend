@@ -1,0 +1,330 @@
+# depslib dependency file v1.0
+1696695163 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1696695146 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1697987704 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<ctime>
+	"Escenario.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\utf.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\string.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\thread.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\threadlocalptr.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\vector2.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\system\vector3.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<algorithm>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundfilefactory.inl
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1525812018 c:\users\morty\downloads\audiolibreria\sfml-2.5.1\include\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1697990938 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\pacman.cpp
+	"PacMan.h"
+
+1697991846 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\pacman.h
+	<string>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<ctime>
+	"Mapa.h"
+
+1697991725 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\fantasma.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<ctime>
+
+1697991571 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\fantasma.cpp
+	"Fantasma.h"
+
+1697992018 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\escenario.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<ctime>
+	"PacMan.h"
+	"Fantasma.h"
+	"Mapa.h"
+	"Comida.h"
+
+1697990895 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\escenario.cpp
+	"Escenario.h"
+
+1697991930 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\mapa.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1697988247 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\mapa.cpp
+	"Mapa.h"
+
+1697955216 c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\include\comida.h
+	<string>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<stdlib.h>
+	<iostream>
+
+1697955678 source:c:\users\morty\documents\universidad\semestre6\graficacion\pac-manfinal\src\comida.cpp
+	"Comida.h"
+

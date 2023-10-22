@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Fantasma.cpp" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1692" topLine="98" />
+		</Cursor>
+		<Folding>
+			<Collapse line="65" />
+			<Collapse line="215" />
+		</Folding>
+	</File>
+	<File name="src\Escenario.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1695" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Comida.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1283" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1905" topLine="67" />
+		</Cursor>
+	</File>
+	<File name="include\Comida.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="src\PacMan.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1176" topLine="22" />
+		</Cursor>
+		<Folding>
+			<Collapse line="46" />
+			<Collapse line="213" />
+		</Folding>
+	</File>
+	<File name="src\Mapa.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="319" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Fantasma.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="480" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="include\PacMan.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1030" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="include\Escenario.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1934" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="include\Mapa.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="16" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
